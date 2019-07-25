@@ -327,7 +327,7 @@
 </Input>
 </Group>
 <Group labelreference="L6447" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
-<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">t4 := textplot([20, 5.5, &quot;MY BABY!!&quot;], 'align' = {'above', 'right'}, 'font' = [&quot;Chiller&quot;, &quot;Regular&quot;, 17]):</Text-field>
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">t4 := textplot([20, 6.5, &quot;MY BABY!!&quot;], 'align' = {'above', 'right'}, 'font' = [&quot;Chiller&quot;, &quot;Regular&quot;, 17]):</Text-field>
 </Input>
 </Group>
 <Group labelreference="L6434" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
@@ -335,11 +335,11 @@
 </Input>
 </Group>
 <Group labelreference="L6429" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
-<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">t6 := textplot([2.5, 21, &quot;DON'T DRIVE WITHOUT SEATBELTS,&quot;], 'align' = {'above', 'right'}, 'font' = [&quot;Chiller&quot;, &quot;Regular&quot;, 17]):</Text-field>
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">t6 := textplot([2.5, 20, &quot;DON'T DRIVE WITHOUT SEATBELTS,&quot;], 'align' = {'above', 'right'}, 'font' = [&quot;Chiller&quot;, &quot;Regular&quot;, 17]):</Text-field>
 </Input>
 </Group>
 <Group labelreference="L6435" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
-<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">t7 := textplot([2.5, 17, &quot;AND NEVER, EVER, LEAVE YOUR CHILD UNATTENDED!!!!&quot;], 'align' = {'above', 'right'}, 'font' = [&quot;Chiller&quot;, &quot;Regular&quot;, 17]):</Text-field>
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">t7 := textplot([2.5, 15, &quot;AND NEVER, EVER, LEAVE YOUR CHILD UNATTENDED!!!!&quot;], 'align' = {'above', 'right'}, 'font' = [&quot;Chiller&quot;, &quot;Regular&quot;, 17]):</Text-field>
 </Input>
 </Group>
 <Group labelreference="L6463" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
@@ -435,7 +435,7 @@
 </Input>
 </Group>
 <Group labelreference="L6449" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
-<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">car17 := display({translate(body,0,2), translate(wheel, 3,1), translate(wheel, 9,1), translate(p12, 20,3.5), translate(b12, 9, 4.5), translate(v12, 20, 0), t4, t5, t6, t7}):</Text-field>
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">car17 := display({translate(body,0,2), translate(wheel, 3,1), translate(wheel, 9,1), translate(p12, 20,3.5), translate(b12, 9, 4.5), translate(v12, 20, 1), t4, t5, t6, t7}):</Text-field>
 </Input>
 </Group>
 <Group labelreference="L6457" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
