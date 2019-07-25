@@ -327,7 +327,7 @@
 </Input>
 </Group>
 <Group labelreference="L6447" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
-<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">t4 := textplot([20, 6.5, &quot;MY BABY!!&quot;], 'align' = {'above', 'right'}, 'font' = [&quot;Chiller&quot;, &quot;Regular&quot;, 17]):</Text-field>
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">t4 := textplot([20, 6.5, &quot;COME BACK, BABY!!&quot;], 'align' = {'above', 'right'}, 'font' = [&quot;Chiller&quot;, &quot;Regular&quot;, 17]):</Text-field>
 </Input>
 </Group>
 <Group labelreference="L6434" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
@@ -343,110 +343,274 @@
 </Input>
 </Group>
 <Group labelreference="L6463" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
-<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">body := plot([ [0,0], [0,2.5], [3,2.5], [3,5], [9,5], [9,2.5], [12,2.5], [12,0], [0,0]], filled=true, color=blue);</Text-field>
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal"></Text-field>
 </Input>
 </Group>
-<Group hide-input="false" labelreference="L6476" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Group labelreference="L7596" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal"></Text-field>
+</Input>
+</Group>
+<Group labelreference="L7597" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal"></Text-field>
+</Input>
+</Group>
+<Group labelreference="L7598" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal"></Text-field>
+</Input>
+</Group>
+<Group labelreference="L7599" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal"></Text-field>
+</Input>
+</Group>
+<Group labelreference="L7600" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal"></Text-field>
+</Input>
+</Group>
+<Group labelreference="L7601" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal"></Text-field>
+</Input>
+</Group>
+<Group labelreference="L7602" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal"></Text-field>
+</Input>
+</Group>
+<Group labelreference="L7603" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal"></Text-field>
+</Input>
+</Group>
+<Group labelreference="L7604" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal"></Text-field>
+</Input>
+</Group>
+<Group labelreference="L7605" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal"></Text-field>
+</Input>
+</Group>
+<Group labelreference="L7606" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal"></Text-field>
+</Input>
+</Group>
+<Group labelreference="L7607" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal"></Text-field>
+</Input>
+</Group>
+<Group labelreference="L7608" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal"></Text-field>
+</Input>
+</Group>
+<Group labelreference="L7609" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal"></Text-field>
+</Input>
+</Group>
+<Group labelreference="L7610" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal"></Text-field>
+</Input>
+</Group>
+<Group labelreference="L7611" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal"></Text-field>
+</Input>
+</Group>
+<Group labelreference="L7612" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal"></Text-field>
+</Input>
+</Group>
+<Group labelreference="L7613" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal"></Text-field>
+</Input>
+</Group>
+<Group labelreference="L7614" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal"></Text-field>
+</Input>
+</Group>
+<Group labelreference="L7615" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal"></Text-field>
+</Input>
+</Group>
+<Group labelreference="L7616" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal"></Text-field>
+</Input>
+</Group>
+<Group labelreference="L7617" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal"></Text-field>
+</Input>
+</Group>
+<Group labelreference="L7618" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal"></Text-field>
+</Input>
+</Group>
+<Group labelreference="L7619" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal"></Text-field>
+</Input>
+</Group>
+<Group labelreference="L7620" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal"></Text-field>
+</Input>
+</Group>
+<Group labelreference="L7621" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal"></Text-field>
+</Input>
+</Group>
+<Group labelreference="L7622" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal"></Text-field>
+</Input>
+</Group>
+<Group labelreference="L7623" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal"></Text-field>
+</Input>
+</Group>
+<Group labelreference="L7624" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal"></Text-field>
+</Input>
+</Group>
+<Group labelreference="L7625" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal"></Text-field>
+</Input>
+</Group>
+<Group labelreference="L7626" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal"></Text-field>
+</Input>
+</Group>
+<Group labelreference="L7627" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal"></Text-field>
+</Input>
+</Group>
+<Group labelreference="L7628" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal"></Text-field>
+</Input>
+</Group>
+<Group labelreference="L7629" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal"></Text-field>
+</Input>
+</Group>
+<Group labelreference="L7630" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal"></Text-field>
+</Input>
+</Group>
+<Group labelreference="L7631" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal"></Text-field>
+</Input>
+</Group>
+<Group labelreference="L7632" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">t8 := textplot([24.5, 1, &quot;The Unlucky Victim&quot;], 'align' = {'above', 'right'}, 'font' = [&quot;Chiller&quot;, &quot;Regular&quot;, 10], filled=true, color=red):</Text-field>
+</Input>
+</Group>
+<Group labelreference="L7633" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">t9 := textplot([0, 1, &quot;The Baby&quot;], 'align' = {'above', 'right'}, 'font' = [&quot;Chiller&quot;, &quot;Regular&quot;, 10], color=red):</Text-field>
+</Input>
+</Group>
+<Group labelreference="L7634" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">t10 := textplot([6, 1, &quot;The Adult&quot;], 'align' = {'above', 'right'}, 'font' = [&quot;Chiller&quot;, &quot;Regular&quot;, 10], color=red):</Text-field>
+</Input>
+</Group>
+<Group hide-input="false" labelreference="L7647" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">body := display(plot([ [0,0], [0,2.5], [3,2.5], [3,5], [9,5], [9,2.5], [12,2.5], [12,0], [0,0]], color=blue, filled=true), t9, t10);</Text-field>
+</Input>
+</Group>
+<Group hide-input="false" labelreference="L7650" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
 <Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">rim := disk( [0,0], 1, thickness=5, color=black):</Text-field>
 </Input>
 </Group>
-<Group labelreference="L6436" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Group labelreference="L7655" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
 <Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">spokes := plot([ [[-1,0], [1,0]], [[0, -1], [0,1]], [[-1,0], [0,-1]], [[0,1], [1,0]], [[-1,0], [0,1]], [[0,-1], [1,0]]], thickness=3, color=gray):</Text-field>
 </Input>
 </Group>
-<Group labelreference="L6474" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Group labelreference="L7661" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
 <Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">spokes;</Text-field>
 </Input>
 </Group>
-<Group labelreference="L6462" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Group labelreference="L7646" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
 <Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">wheel := display( [spokes, rim] ):</Text-field>
 </Input>
 </Group>
-<Group labelreference="L6455" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Group labelreference="L7651" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
 <Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">wheel2 := rotate(wheel, -Pi/6):</Text-field>
 </Input>
 </Group>
-<Group labelreference="L6451" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Group labelreference="L7659" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
 <Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">wheel3 := rotate(wheel, -Pi/3):</Text-field>
 </Input>
 </Group>
-<Group labelreference="L6464" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
-<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">car1 := display({translate(body,1,2), translate(wheel, 4,1), translate(wheel, 10,1), translate(p1, 10,4.5), translate(b1, 1, 4.5), translate(v1, 20, 1), t1, translate(t2, 10, 12),   t5, t6, t7}):</Text-field>
+<Group labelreference="L7636" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">car1 := display({translate(body,1,2), translate(wheel, 4,1), translate(wheel, 10,1), translate(p1, 10,4.5), translate(b1, 1, 4.5), translate(v1, 20, 1), t1, translate(t2, 10, 12),   t5, t6, t7, t8}):</Text-field>
 </Input>
 </Group>
-<Group hide-input="false" labelreference="L6470" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
-<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">car2 := display({translate(body,2,2), translate(wheel2, 5,1), translate(wheel2, 11,1), translate(p5, 11.75,4.5), translate(b5, 4, 6), translate(v5, 20,1), t1, translate(t2, 11, 12),  t5, t6, t7}):</Text-field>
+<Group hide-input="false" labelreference="L7657" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">car2 := display({translate(body,2,2), translate(wheel2, 5,1), translate(wheel2, 11,1), translate(p5, 11.75,4.5), translate(b5, 4, 6), translate(v5, 20,1), t1, translate(t2, 11, 12),  t5, t6, t7, t8}):</Text-field>
 </Input>
 </Group>
-<Group labelreference="L6475" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
-<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">car3 := display({translate(body,3,2), translate(wheel3, 6,1), translate(wheel3, 12,1), translate(p6, 12,4.5), translate(b6, 6,6), translate(v6, 20, 1), t1, translate(t2, 12, 12),  t5, t6, t7}):</Text-field>
+<Group labelreference="L7648" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">car3 := display({translate(body,3,2), translate(wheel3, 6,1), translate(wheel3, 12,1), translate(p6, 12,4.5), translate(b6, 6,6), translate(v6, 20, 1), t1, translate(t2, 12, 12),  t5, t6, t7, t8}):</Text-field>
 </Input>
 </Group>
-<Group labelreference="L6453" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
-<Input><Text-field prompt="&gt; " style="Maple Input" bold="false" layout="Normal"><Font bold="true">car4 := display({translate(body,4,2), translate(wheel, 7,1), translate(wheel, 13,1), translate(p7, 13,5), translate(b7, 8,4.5), translate(v7, 20, 1), t1, translate(t2, 13, 12),  t5, t6, t7}):</Font></Text-field>
+<Group labelreference="L7649" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field prompt="&gt; " style="Maple Input" bold="false" layout="Normal"><Font bold="true">car4 := display({translate(body,4,2), translate(wheel, 7,1), translate(wheel, 13,1), translate(p7, 13,5), translate(b7, 8,4.5), translate(v7, 20, 1), t1, translate(t2, 13, 12),  t5, t6, t7, t8}):</Font></Text-field>
 </Input>
 </Group>
-<Group labelreference="L6477" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
-<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">car5 := display({translate(body,5,2), translate(wheel2, 8,1), translate(wheel2, 14,1), translate(p8, 14,4.5), translate(b8, 10,5), translate(v8, 20, 1), t1, translate(t2, 14, 12), t5, t6, t7}):</Text-field>
+<Group labelreference="L7652" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">car5 := display({translate(body,5,2), translate(wheel2, 8,1), translate(wheel2, 14,1), translate(p8, 14,4.5), translate(b8, 10,5), translate(v8, 20, 1), t1, translate(t2, 14, 12), t5, t6, t7, t8}):</Text-field>
 </Input>
 </Group>
-<Group labelreference="L6422" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
-<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">car6 := display({translate(body,6,2), translate(wheel3, 9,1), translate(wheel3, 15,1), translate(p9, 15, 5), translate(b9, 12.5,6), translate(v9, 20, 1), t1, translate(t2, 15, 12), t5, t6, t7}):</Text-field>
+<Group labelreference="L7639" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">car6 := display({translate(body,6,2), translate(wheel3, 9,1), translate(wheel3, 15,1), translate(p9, 15, 5), translate(b9, 12.5,6), translate(v9, 20, 1), t1, translate(t2, 15, 12), t5, t6, t7, t8}):</Text-field>
 </Input>
 </Group>
-<Group labelreference="L6465" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
-<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">car7 := display({translate(body,7,2), translate(wheel, 10,1), translate(wheel, 16,1), translate(p10, 17,6), translate(b10, 14, 5.25), translate(v10, 20, 1), t1, translate(t2, 16, 12), t5, t6, t7}):</Text-field>
+<Group labelreference="L7638" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">car7 := display({translate(body,7,2), translate(wheel, 10,1), translate(wheel, 16,1), translate(p10, 17,6), translate(b10, 14, 5.25), translate(v10, 20, 1), t1, translate(t2, 16, 12), t5, t6, t7, t8}):</Text-field>
 </Input>
 </Group>
-<Group labelreference="L6478" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
-<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">car8 := display({translate(body,7,2), translate(wheel, 10,1), translate(wheel, 16,1), translate(p11, 19,5), translate(b11, 15.5, 5.25), translate(v11, 20, 1), t1, translate(t2, 17, 12), t5, t6, t7}):</Text-field>
+<Group labelreference="L7653" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">car8 := display({translate(body,7,2), translate(wheel, 10,1), translate(wheel, 16,1), translate(p11, 19,5), translate(b11, 15.5, 5.25), translate(v11, 20, 1), t1, translate(t2, 17, 12), t5, t6, t7, t8}):</Text-field>
 </Input>
 </Group>
-<Group labelreference="L6480" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
-<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">car9 := display({translate(body,8,2), translate(wheel, 11,1), translate(wheel, 17,1), translate(p12, 20,3.5), translate(b12, 17, 4.5), translate(v12, 20, 1), t1, translate(t2, 18, 12), t5, t6, t7}):</Text-field>
+<Group labelreference="L7644" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">car9 := display({translate(body,8,2), translate(wheel2, 11,1), translate(wheel2, 17,1), translate(p12, 20,3.5), translate(b12, 17, 4.5), translate(v12, 20, 1), t1, translate(t2, 18, 12), t5, t6, t7, t8}):</Text-field>
 </Input>
 </Group>
-<Group labelreference="L6418" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
-<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">car10 := display({translate(body,7,2), translate(wheel, 10,1), translate(wheel, 16,1), translate(p12, 20,3.5), translate(b12, 16, 4.5), translate(v12, 20, 1), t4, t5, t6, t7}):</Text-field>
+<Group labelreference="L7662" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">car10 := display({translate(body,7,2), translate(wheel, 10,1), translate(wheel, 16,1), translate(p12, 20,3.5), translate(b12, 16, 4.5), translate(v12, 20, 1), t4, t5, t6, t7, t8}):</Text-field>
 </Input>
 </Group>
-<Group labelreference="L6482" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
-<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">car11 := display({translate(body,6,2), translate(wheel, 9,1), translate(wheel, 15,1), translate(p12, 20,3.5), translate(b12, 15, 4.5), translate(v12, 20, 1), t4, t5, t6, t7}):</Text-field>
+<Group labelreference="L7645" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">car11 := display({translate(body,6,2), translate(wheel3, 9,1), translate(wheel3, 15,1), translate(p12, 20,3.5), translate(b12, 15, 4.5), translate(v12, 20, 1), t4, t5, t6, t7, t8}):</Text-field>
 </Input>
 </Group>
-<Group labelreference="L6472" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
-<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">car12 := display({translate(body,5,2), translate(wheel, 8,1), translate(wheel, 14,1), translate(p12, 20,3.5), translate(b12, 14, 4.5), translate(v12, 20, 1), t4, t5, t6, t7}):</Text-field>
+<Group labelreference="L7658" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">car12 := display({translate(body,5,2), translate(wheel2, 8,1), translate(wheel2, 14,1), translate(p12, 20,3.5), translate(b12, 14, 4.5), translate(v12, 20, 1), t4, t5, t6, t7, t8}):</Text-field>
 </Input>
 </Group>
-<Group labelreference="L6459" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
-<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">car13 := display({translate(body,4,2), translate(wheel, 7,1), translate(wheel, 13,1), translate(p12, 20,3.5), translate(b12, 13, 4.5), translate(v12, 20, 1),  t4, t5, t6, t7}):</Text-field>
+<Group labelreference="L7656" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">car13 := display({translate(body,4,2), translate(wheel, 7,1), translate(wheel, 13,1), translate(p12, 20,3.5), translate(b12, 13, 4.5), translate(v12, 20, 1),  t4, t5, t6, t7, t8}):</Text-field>
 </Input>
 </Group>
-<Group labelreference="L6466" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
-<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">car14 := display({translate(body,3,2), translate(wheel, 6,1), translate(wheel, 12,1), translate(p12, 20,3.5), translate(b12, 12, 4.5), translate(v12, 20, 1),  t4, t5, t6, t7}):</Text-field>
+<Group labelreference="L7640" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">car14 := display({translate(body,3,2), translate(wheel3, 6,1), translate(wheel3, 12,1), translate(p12, 20,3.5), translate(b12, 12, 4.5), translate(v12, 20, 1),  t4, t5, t6, t7, t8}):</Text-field>
 </Input>
 </Group>
-<Group labelreference="L6473" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
-<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">car15 := display({translate(body,2,2), translate(wheel, 5,1), translate(wheel, 11,1), translate(p12, 20,3.5), translate(b12, 11, 4.5), translate(v12, 20, 1), t4, t5, t6, t7}):</Text-field>
+<Group labelreference="L7660" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">car15 := display({translate(body,2,2), translate(wheel2, 5,1), translate(wheel2, 11,1), translate(p12, 20,3.5), translate(b12, 11, 4.5), translate(v12, 20, 1), t4, t5, t6, t7, t8}):</Text-field>
 </Input>
 </Group>
-<Group labelreference="L6420" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
-<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">car16 := display({translate(body,1,2), translate(wheel, 4,1), translate(wheel, 10,1), translate(p12, 20,3.5), translate(b12, 10, 4.5), translate(v12, 20, 1), t4, t5, t6, t7}):</Text-field>
+<Group labelreference="L7637" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">car16 := display({translate(body,1,2), translate(wheel, 4,1), translate(wheel, 10,1), translate(p12, 20,3.5), translate(b12, 10, 4.5), translate(v12, 20, 1), t4, t5, t6, t7, t8}):</Text-field>
 </Input>
 </Group>
-<Group labelreference="L6449" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
-<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">car17 := display({translate(body,0,2), translate(wheel, 3,1), translate(wheel, 9,1), translate(p12, 20,3.5), translate(b12, 9, 4.5), translate(v12, 20, 1), t4, t5, t6, t7}):</Text-field>
+<Group labelreference="L7642" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">car17 := display({translate(body,0,2), translate(wheel3, 3,1), translate(wheel3, 9,1), translate(p12, 20,3.5), translate(b12, 9, 4.5), translate(v12, 20, 1), t4, t5, t6, t7, t8}):</Text-field>
 </Input>
 </Group>
-<Group labelreference="L6457" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
-<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">display( [car1, car2, car3, car4, car5, car6, car7, car8, car9, car10, car11, car12, car13, car14, car15, car16, car17], insequence=true, scaling=constrained, axes=none, view=[0..30, 0..24] );</Text-field>
+<Group labelreference="L7654" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">display( [car1, car2, car3, car4, car5, car6, car7, car8, car9, car10, car11, car12, car13, car14, car15, car16, car17], insequence=true, scaling=constrained, view=[0..30, 0..24] );</Text-field>
 </Input>
 </Group>
-<Group labelreference="L6405" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
-<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">## Checkout my Code via Github!! https://bit.ly/2Gr0mvK</Text-field>
+<Group labelreference="L7643" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">## Check out my Repo on Github!! https://bit.ly/2Gr0mvK</Text-field>
 </Input>
 </Group>
-<Group labelreference="L7358" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Group labelreference="L7641" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal"></Text-field>
+</Input>
+</Group>
+<Group labelreference="L7635" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
 <Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal"></Text-field>
 </Input>
 </Group>
